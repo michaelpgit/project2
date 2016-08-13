@@ -16,4 +16,4 @@ if __name__ == '__main__':
     if b > 0 and b.is_integer():
         factors(int(b))
     else:
-        print('Please entter a positive integer')
+        print('Please entter a positive integer.')
